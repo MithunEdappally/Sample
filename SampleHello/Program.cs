@@ -8,6 +8,7 @@ namespace SampleHello
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hi Again");
+            Console.WriteLine("Check 3");
         }
     }
 }
